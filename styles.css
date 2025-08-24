@@ -1,3 +1,75 @@
-.title {
-    color: green;
+body{
+    width: 1024px;
+    height: 1536px;
+    background-image: url(interestelar.png);
+    background-repeat: no-repeat;
+}
+
+#convite{
+    width: 600px;
+    height: 700px;
+    background-color: rgb(219, 219, 219); 
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 5px;
+}
+
+
+.nome{
+    color: black;
+    font-family: Lucida Handwriting;
+    font-size: 60px;
+    padding-top: 30px;
+    text-align: center;
+    
+}
+
+.titulo{
+    color: black;
+    font-family: Lucida Handwriting;
+    font-size: 30px;
+    text-align: center;
+}
+
+.texto{
+    color: black;
+    font-family: serif;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.texto1{
+    color: black;
+    font-family: serif;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+}
+
+.programacao{
+    color: black;
+    font-family: serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.atencao{
+    color: black;
+    font-family: serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+    text-decoration-line: underline;
+}
+
+.ps{
+    color: black;
+    font-family: serif;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 30px;
 }
